@@ -1,5 +1,7 @@
 # three-freeform-controls
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/30e52ae2-005e-439d-b769-263804435df5.svg?orgId=604336610407)](https://app.soluble.cloud/repos/details/github.com/jefferyfry/three-freeform-controls?orgId=604336610407)  
+
 [![npm version](https://badge.fury.io/js/three-freeform-controls.svg)](https://badge.fury.io/js/three-freeform-controls)
 ![Built with TypeScript](https://flat.badgen.net/badge/icon/TypeScript?icon=typescript&label&labelColor=blue&color=555555)
 [![Build Status](https://travis-ci.org/tocttou/three-freeform-controls.svg?branch=master)](https://travis-ci.org/tocttou/three-freeform-controls)
